@@ -1,0 +1,30 @@
+[1mdiff --git a/prueba 3+/prueba 3 checando .html b/prueba 3+/prueba 3 checando .html[m
+[1mindex e69de29..b5af92a 100644[m
+[1m--- a/prueba 3+/prueba 3 checando .html[m	
+[1m+++ b/prueba 3+/prueba 3 checando .html[m	
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title>preparadno pruebas</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/prueba2/prueba2-1.html b/prueba2/prueba2-1.html[m
+[1mindex e69de29..e8d0163 100644[m
+[1m--- a/prueba2/prueba2-1.html[m
+[1m+++ b/prueba2/prueba2-1.html[m
+[36m@@ -0,0 +1,9 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m	[32m<title>revisando pruebas</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
